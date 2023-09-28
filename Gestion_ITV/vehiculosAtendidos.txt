@@ -1,0 +1,5 @@
+Matricula:1234ABC Tiempo Espera:4 segundos
+Matricula:3210CBA Tiempo Espera:3 segundos
+Matricula:6547XDT Tiempo Espera:2 segundos
+Matricula:0521AAA Tiempo Espera:1 segundos
+Matricula:1234ABC Tiempo Espera:0 segundos
