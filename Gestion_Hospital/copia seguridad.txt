@@ -1,0 +1,6 @@
+Alejandro,Cardoso Dorantes,49043366Y,Pepe Caro,Paracetamol,2066780824029,2023-03-15,2023-03-16,20.5,true
+Joaquin,Sanchez Garcia,63443507P,Pepe Caro,Ibuprofeno,4962382895925,2023-03-12,2023-03-13,19.5,true
+Cristiano Ronaldo,Dos Santos Aveiro,02266946C,Florentino Perez,Paracetamol,2066780824029,2023-02-12,2023-02-13,99.9,true
+Lionel Andres,Messi Cuccittini,14678609D,El Jeque,Paracetamol,2066780824029,2023-02-23,2023-02-14,150.3,true
+Daniel,Romero Hernandez,41197662Q,Antonio Lobato,Naproxeno,6537269421627,2023-03-10,null,null,false
+Rafael,Lopez Lopez,73159214D,Antonio Lobato,Naproxeno,6537269421627,2023-03-01,null,null,false
